@@ -39,6 +39,12 @@ public class DBSingleton {
         //thread access
         //Thread will access to instanciation one by one
         // each one at a given point of time
+        //-------------------------------------------------------------------------
+        //A synchronized block in Java is synchronized on some object.
+        // All synchronized blocks synchronized on the same object can
+        // only have one thread executing inside them at a time. All other
+        // threads attempting to enter the synchronized block are blocked until
+        // the thread inside the synchronized block exits the block.
         if(instance == null)
         {
             if(instance == null) {
