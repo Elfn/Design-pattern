@@ -7,7 +7,7 @@ public class DBSingleton {
 
     //1- Create the only one instance that we want to call
     //VOLATILE ensure that instance will remain a singleton throught many of it change in JVM
-    //To protect against instanciation from reflection
+    //To protect against instanciation to reflection
     private static volatile DBSingleton instance = null;
 
     //2 - Create private construction only used by DbSingleton
@@ -34,7 +34,11 @@ public class DBSingleton {
     //IT IS THREAD SAFE
     public static DBSingleton getInstance()
     {
-
+        //Here we did a double check in order
+        // to avoid simultaneous
+        //thread access
+        //Thread will access to instanciation one by one
+        // each one at a given point of time
         if(instance == null)
         {
             if(instance == null) {

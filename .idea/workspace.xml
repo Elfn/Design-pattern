@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="223de3a3-779c-4e88-b1b0-a1c860589189" name="Default Changelist" comment="" />
+    <list default="true" id="223de3a3-779c-4e88-b1b0-a1c860589189" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DESIGN PATTERNS/singleton/DBSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DESIGN PATTERNS/singleton/DBSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/singleton/DBSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleton/DBSingleton.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +24,8 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -30,7 +35,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Wrf29fjWv7yWFk2VrFXrizoJVJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -120,11 +127,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579912424535</updated>
-      <workItem from="1579912430240" duration="1742000" />
+      <workItem from="1579912430240" duration="2196000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
