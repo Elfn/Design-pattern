@@ -76,7 +76,7 @@ public class DBSingleton {
             synchronized (DBSingleton.class){
                 if(conn == null)
                 {
-                    String dbUrl = "jdbc:derby:DbWeb;create=true";
+                    String dbUrl = "jdbc:derby:Db;create=true";
                     conn = DriverManager.getConnection(dbUrl);
                 }
             }
