@@ -2,288 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="223de3a3-779c-4e88-b1b0-a1c860589189" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Builder/LunshOrderBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Builder/LunshOrderBeanTelescoping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Builder/LunshOrderBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestBuiderDesign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleton/Builder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/db.lck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/dbex.lck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/log/log.ctrl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/log/log1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/log/logmirror.ctrl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c10.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c101.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c111.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c121.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c130.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c141.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c150.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c161.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c171.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c180.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c191.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c1a1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c1b1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c1c0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c1d1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c1e0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c1f1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c20.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c200.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c211.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c221.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c230.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c241.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c251.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c260.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c271.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c281.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c290.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c2a1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c2b1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c2c1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c2d0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c2e1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c2f0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c300.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c31.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c41.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c51.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c60.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c71.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c81.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/c90.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/ca1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/cb1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/cc0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/cd1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/ce1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/seg0/cf0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Db/service.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/db.lck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/dbex.lck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/log/log.ctrl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/log/log1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/log/logmirror.ctrl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c10.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c101.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c111.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c121.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c130.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c141.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c150.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c161.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c171.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c180.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c191.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c1a1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c1b1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c1c0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c1d1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c1e0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c1f1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c20.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c200.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c211.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c221.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c230.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c241.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c251.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c260.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c271.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c281.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c290.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c2a1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c2b1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c2c1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c2d0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c2e1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c2f0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c300.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c31.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c41.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c51.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c60.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c71.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c81.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/c90.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/ca1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/cb1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/cc0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/cd1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/ce1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/seg0/cf0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbTest/service.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/db.lck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/dbex.lck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/log/log.ctrl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/log/log1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/log/logmirror.ctrl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c10.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c101.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c111.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c121.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c130.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c141.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c150.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c161.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c171.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c180.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c191.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c1a1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c1b1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c1c0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c1d1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c1e0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c1f1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c20.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c200.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c211.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c221.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c230.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c241.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c251.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c260.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c271.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c281.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c290.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c2a1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c2b1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c2c1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c2d0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c2e1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c2f0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c300.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c31.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c41.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c51.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c60.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c71.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c81.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/c90.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/ca1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/cb1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/cc0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/cd1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/ce1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/seg0/cf0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DbWeb/service.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/db.lck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/dbex.lck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/log/log.ctrl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/log/log1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/log/logmirror.ctrl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c10.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c101.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c111.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c121.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c130.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c141.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c150.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c161.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c171.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c180.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c191.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c1a1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c1b1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c1c0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c1d1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c1e0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c1f1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c20.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c200.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c211.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c221.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c230.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c241.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c251.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c260.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c271.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c281.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c290.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c2a1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c2b1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c2c1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c2d0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c2e1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c2f0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c300.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c31.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c41.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c51.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c60.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c71.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c81.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/c90.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/ca1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/cb1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/cc0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/cd1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/ce1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/cf0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/seg0/d310.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDb/service.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/db.lck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/dbex.lck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/log/log.ctrl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/log/log1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/log/logmirror.ctrl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c10.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c101.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c111.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c121.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c130.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c141.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c150.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c161.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c171.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c180.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c191.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c1a1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c1b1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c1c0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c1d1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c1e0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c1f1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c20.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c200.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c211.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c221.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c230.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c241.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c251.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c260.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c271.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c281.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c290.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c2a1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c2b1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c2c1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c2d0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c2e1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c2f0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c300.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c31.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c41.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c51.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c60.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c71.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c81.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/c90.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/ca1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/cb1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/cc0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/cd1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/ce1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/cf0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/seg0/d310.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyDbTest/service.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DESIGN PATTERNS/TestDesigns.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestDesigns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestSingletonDesign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Builder/LunshOrderBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Builder/LunshOrderBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/singleton/Builder.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -324,6 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -399,7 +121,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestBuiderDesign" />
-        <item itemvalue="Application.TestSingletonDesigns" />
       </list>
     </recent_temporary>
   </component>
@@ -417,7 +138,8 @@
       <workItem from="1579912430240" duration="4140000" />
       <workItem from="1580001528099" duration="2103000" />
       <workItem from="1580584801629" duration="685000" />
-      <workItem from="1581199500281" duration="4132000" />
+      <workItem from="1581199500281" duration="4453000" />
+      <workItem from="1581294015611" duration="1361000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1579915527759</created>
@@ -447,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580003712841</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new">
+      <created>1581208678609</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581208678609</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,27 +209,35 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1581208051627" />
-    <state width="1396" height="203" key="GridCell.Tab.0.bottom" timestamp="1581208565766">
+    <state x="297" y="52" key="CommitChangelistDialog2" timestamp="1581208678148">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="203" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581208565766" />
-    <state width="1396" height="203" key="GridCell.Tab.0.center" timestamp="1581208565764">
+    <state x="297" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581208678148" />
+    <state width="1396" height="203" key="GridCell.Tab.0.bottom" timestamp="1581211057924">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="203" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581208565764" />
-    <state width="1396" height="203" key="GridCell.Tab.0.left" timestamp="1581208565763">
+    <state width="1396" height="203" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581211057924" />
+    <state width="1396" height="203" key="GridCell.Tab.0.center" timestamp="1581211057922">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="203" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581208565763" />
-    <state width="1396" height="203" key="GridCell.Tab.0.right" timestamp="1581208565765">
+    <state width="1396" height="203" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581211057922" />
+    <state width="1396" height="203" key="GridCell.Tab.0.left" timestamp="1581211057922">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="203" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581208565765" />
+    <state width="1396" height="203" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581211057922" />
+    <state width="1396" height="203" key="GridCell.Tab.0.right" timestamp="1581211057923">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="203" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581211057923" />
     <state x="229" y="55" key="SettingsEditor" timestamp="1580584914526">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="55" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580584914526" />
     <state x="229" y="73" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1580584887518" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1581208681893">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1581208681893" />
     <state x="399" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1581199499798">
       <screen x="0" y="23" width="1440" height="812" />
     </state>

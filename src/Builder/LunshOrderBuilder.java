@@ -5,6 +5,11 @@ package Builder;
  */
 public class LunshOrderBuilder {
 
+    //Ideal when we want to create objects with several parameters
+    //And want them immutable
+
+
+    //Inner static class to handle an object with severals params
     public static class Builder {
 
         private  String bread;
@@ -15,11 +20,15 @@ public class LunshOrderBuilder {
         public Builder() {
         }
 
+        //THAT METHOD ALLOWS US TO CREATE BUILDER AND DISPLAY ALL VARIABLE'S VALUES
         public LunshOrderBuilder build()
         {
             return new LunshOrderBuilder(this);
         }
 
+        //HERE WE RETURN BUILDER AND SET VARIABLES
+        //IN ORDER TO MAKE AN OBJECT WITH VARIOUS
+        // PARAMETERS
         public Builder bread(String bread)
         {
             this.bread = bread;
@@ -51,6 +60,7 @@ public class LunshOrderBuilder {
     private final String meat;
 
 
+    //Here we are dealing with outer class  to construct the builder
     private LunshOrderBuilder(Builder builder) {
             this.bread = builder.bread;
             this.condiments = builder.condiments;
